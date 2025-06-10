@@ -6,7 +6,7 @@ A modern **Next.js 14 App Router** application that lists upcoming webinars and 
 
 ## 🔗 Links
 
-- 🌐 **Live Site**: [https://webinar-app.vercel.app](https://webinar-app.vercel.app) <!-- Replace if needed -->
+- 🌐 **Live Site**: [https://webinar-app.vercel.app](https://webinar-app.vercel.app) 
 - 💻 **GitHub Repo**: [https://github.com/Rahulkrpd/Webinar-](https://github.com/Rahulkrpd/Webinar-)
 
 ---
